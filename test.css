@@ -1,0 +1,25 @@
+.outerbox{
+    width: 50vw;
+    height: 50vh;
+    border: 2px solid black;
+    background: url(./img/somu\ 2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgb(0, 0, 0);
+    opacity: .5;
+}
+
+.outerbox h1{
+    text-align: center;
+}
+
+.outerbox p{
+    padding: 50px;
+}
+
+#content{
+    background: transparent;
+    opacity: 1;
+    position: absolute;
+
+}
